@@ -1,5 +1,9 @@
-Open Table Formats
+Open Table Formats for your transactional data lake tables in AWS
 
 Apache Iceberg
 Apache Hudi
 Delta Lake
+
+
+Reference Article : https://aws.amazon.com/blogs/big-data/choosing-an-open-table-format-for-your-transactional-data-lake-on-aws/
+
